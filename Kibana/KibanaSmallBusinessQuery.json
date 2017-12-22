@@ -1,0 +1,10 @@
+{
+  "index": "09388570-dfa0-11e7-a9f4-55794f8e4264",
+  "highlightAll": true,
+  "version": true,
+  "query": {
+    "language": "lucene",
+    "query": "\"small business\" \"smallbiz\" \"self employed\" \"niche business\" \"book keeping\" \"sales\" \"shoplocal\" \"accounting\" \"inventory\""
+  },
+  "filter": []
+}
